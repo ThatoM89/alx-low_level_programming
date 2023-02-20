@@ -2,13 +2,13 @@
 
 /**
  *
- *  * main - Entry point
+ * main - print a line using puts 
  *
- *   *
  *
- *    * Return: Always 0 (Success)
  *
- *     */
+ * Return: Always 0 (Success)
+ *
+ */
 
 int main(void)
 
